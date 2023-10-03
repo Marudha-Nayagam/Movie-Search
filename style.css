@@ -29,6 +29,10 @@ input:focus{
     font-size: 18px;
     cursor: pointer;
 }
+.btn:hover {
+    background-color: rgb(192, 118, 6);
+    color: black;
+}
 .movieDetails{
     margin: 20px auto;
     width: 700px;
